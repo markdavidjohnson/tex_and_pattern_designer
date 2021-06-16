@@ -1,0 +1,1 @@
+Use this project to create specialized paths for laser cutting letters and other shapes
